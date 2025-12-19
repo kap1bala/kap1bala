@@ -1,16 +1,15 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I’m kap1bala</h3>
 
 <!--
-**kap1bala/kap1bala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Environment
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Environment](https://go-skill-icons.vercel.app/api/icons?i=windows,macos)
 -->
+
+### Languages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python,c,cpp)
+
+### Tools
+
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,latex,figma,photoshop,illustrator,git,github,netlify,vercel,npm)
