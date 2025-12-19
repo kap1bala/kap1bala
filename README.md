@@ -12,4 +12,5 @@
 
 ### Tools
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,latex,figma,photoshop,illustrator,git,github,netlify,vercel,npm)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=word,excel,powerpoint,notion,overleaf,latex,figma,photoshop,illustrator,git,github,netlify,vercel,cloudflare,npm)
+<!-- xmind -->
